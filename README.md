@@ -1,1 +1,1 @@
-# SWIGGY-CLONE
+This code snippet includes CSS styles for a responsive navbar, search bar, restaurant listing, and footer. It defines the layout, colors, typography, and hover effects for various elements. The code aims to create a visually appealing and user-friendly interface for a website or application.
